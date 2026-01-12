@@ -1,12 +1,15 @@
 
-<h1 align="center">Hi 👋,  I'm Siddhi Sharma</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="left">Hi 👋,  I'm Siddhi Sharma</h1>
+<h3 align="left">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/8006ebc9-dd10-4ea2-8bd8-4e2d9bbaf526">
 
 
-- 🌱 I’m currently learning **react**
+- 🔭 I’m currently a 2nd-year B-Tech Student at VIT.
+- 🌱 Pursuing Computer Science Engineering
+- 👯 Specialisation Cloud Computing and Automation
+- 💻 I've foundational understanding of Python, Java, C++, UI/UX etc.
 
-- 📫 How to reach me **siddhisharma408@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
