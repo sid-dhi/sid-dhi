@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋,  I'm Siddhi Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://share.google/7h4znFXDfsys6ioA9" />
+<img align="right" alt="Coding" width="400" src="![Image](https://github.com/user-attachments/assets/8006ebc9-dd10-4ea2-8bd8-4e2d9bbaf526)">
 
 
 - 🌱 I’m currently learning **react**
