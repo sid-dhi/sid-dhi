@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently a 2nd-year B-Tech Student at VIT.<br>🌱 Pursuing Computer Science Engineering<br>👯 Specialisation Cloud Computing and Automation<br>💻 I've foundational understanding of Python, Java, C++, UI/UX etc.
+🔭 I’m currently a 3rd-year B-Tech Student at VIT.<br>🌱 Pursuing Computer Science Engineering<br>👯 Specialisation Cloud Computing and Automation<br>💻 I've foundational understanding of Python, Java, C++, UI/UX etc.
 
  🌐 **Socials:**
  
